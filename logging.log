@@ -1,0 +1,569 @@
+
+2018-10-11 20:08:02 INFO  TacheTest:36 - dans init
+2018-10-11 20:08:02 INFO  TacheTest:39 - dans After
+2018-10-11 20:08:02 INFO  TacheTest:36 - dans init
+2018-10-11 20:08:02 INFO  TacheTest:42 - dans test1
+2018-10-11 20:08:02 INFO  TacheTest:39 - dans After
+2018-10-11 20:08:02 INFO  TacheTest:36 - dans init
+2018-10-11 20:08:02 INFO  TacheTest:45 - dans test1
+2018-10-11 20:08:02 INFO  TacheTest:39 - dans After
+2018-10-11 20:08:02 INFO  TacheTest:36 - dans init
+2018-10-11 20:08:02 INFO  TacheTest:39 - dans After
+2018-10-11 23:04:47 INFO  TacheTest:36 - dans init
+2018-10-11 23:04:48 INFO  TacheTest:39 - dans After
+2018-10-11 23:04:48 INFO  TacheTest:36 - dans init
+2018-10-11 23:04:48 INFO  TacheTest:42 - dans test1
+2018-10-11 23:04:48 INFO  TacheTest:39 - dans After
+2018-10-11 23:04:48 INFO  TacheTest:36 - dans init
+2018-10-11 23:04:48 INFO  TacheTest:45 - dans Test2
+2018-10-11 23:04:48 INFO  TacheTest:39 - dans After
+2018-10-11 23:04:48 INFO  TacheTest:36 - dans init
+2018-10-11 23:04:48 INFO  TacheTest:39 - dans After
+2018-10-11 23:07:16 INFO  TacheTest:35 - dans test1
+2018-10-11 23:07:16 INFO  TacheTest:38 - dans Test2
+2018-10-12 02:44:53 INFO  TacheTest:34 - dans init
+2018-10-12 02:44:53 INFO  TacheTest:37 - dans After
+2018-10-12 02:44:53 INFO  TacheTest:34 - dans init
+2018-10-12 02:44:53 INFO  TacheTest:40 - dans test1
+2018-10-12 02:44:53 INFO  TacheTest:37 - dans After
+2018-10-12 02:44:53 INFO  TacheTest:34 - dans init
+2018-10-12 02:44:53 INFO  TacheTest:43 - dans Test2
+2018-10-12 02:44:53 INFO  TacheTest:37 - dans After
+2018-10-12 02:44:53 INFO  TacheTest:34 - dans init
+2018-10-12 02:44:53 INFO  TacheTest:37 - dans After
+2018-10-12 03:01:32 INFO  TacheTest:34 - dans init
+2018-10-12 03:01:32 INFO  TacheTest:37 - dans After
+2018-10-12 03:01:32 INFO  TacheTest:34 - dans init
+2018-10-12 03:01:32 INFO  TacheTest:40 - dans test1
+2018-10-12 03:01:32 INFO  TacheTest:37 - dans After
+2018-10-12 03:01:32 INFO  TacheTest:34 - dans init
+2018-10-12 03:01:32 INFO  TacheTest:43 - dans Test2
+2018-10-12 03:01:32 INFO  TacheTest:37 - dans After
+2018-10-12 03:01:32 INFO  TacheTest:34 - dans init
+2018-10-12 03:01:32 INFO  TacheTest:37 - dans After
+2018-10-13 00:35:14 INFO  TacheTest:39 - dans init
+2018-10-13 00:35:14 INFO  TacheTest:42 - dans After
+2018-10-13 00:35:15 INFO  TacheTest:39 - dans init
+2018-10-13 00:35:15 INFO  TacheTest:45 - dans test1
+2018-10-13 00:35:15 INFO  TacheTest:42 - dans After
+2018-10-13 00:35:15 INFO  TacheTest:39 - dans init
+2018-10-13 00:35:15 INFO  TacheTest:48 - dans Test2
+2018-10-13 00:35:15 INFO  TacheTest:42 - dans After
+2018-10-13 00:35:15 INFO  TacheTest:39 - dans init
+2018-10-13 00:35:15 INFO  TacheTest:42 - dans After
+2018-10-13 00:36:23 INFO  TacheTest:39 - dans init
+2018-10-13 00:36:23 INFO  TacheTest:42 - dans After
+2018-10-13 00:36:23 INFO  TacheTest:39 - dans init
+2018-10-13 00:36:23 INFO  TacheTest:45 - dans test1
+2018-10-13 00:36:23 INFO  TacheTest:42 - dans After
+2018-10-13 00:36:23 INFO  TacheTest:39 - dans init
+2018-10-13 00:36:23 INFO  TacheTest:48 - dans Test2
+2018-10-13 00:36:23 INFO  TacheTest:42 - dans After
+2018-10-13 00:36:23 INFO  TacheTest:39 - dans init
+2018-10-13 00:36:23 INFO  TacheTest:42 - dans After
+2018-10-13 00:37:35 INFO  TacheTest:39 - dans init
+2018-10-13 00:37:35 INFO  TacheTest:42 - dans After
+2018-10-13 00:37:35 INFO  TacheTest:39 - dans init
+2018-10-13 00:37:35 INFO  TacheTest:45 - dans test1
+2018-10-13 00:37:35 INFO  TacheTest:42 - dans After
+2018-10-13 00:37:35 INFO  TacheTest:39 - dans init
+2018-10-13 00:37:35 INFO  TacheTest:48 - dans Test2
+2018-10-13 00:37:35 INFO  TacheTest:42 - dans After
+2018-10-13 00:37:35 INFO  TacheTest:39 - dans init
+2018-10-13 00:37:35 INFO  TacheTest:42 - dans After
+2018-10-13 00:39:24 INFO  TacheTest:39 - dans init
+2018-10-13 00:39:24 INFO  TacheTest:42 - dans After
+2018-10-13 00:39:24 INFO  TacheTest:39 - dans init
+2018-10-13 00:39:24 INFO  TacheTest:45 - dans test1
+2018-10-13 00:39:24 INFO  TacheTest:42 - dans After
+2018-10-13 00:39:24 INFO  TacheTest:39 - dans init
+2018-10-13 00:39:24 INFO  TacheTest:48 - dans Test2
+2018-10-13 00:39:24 INFO  TacheTest:42 - dans After
+2018-10-13 00:39:24 INFO  TacheTest:39 - dans init
+2018-10-13 00:39:24 INFO  TacheTest:42 - dans After
+2018-10-13 00:40:11 INFO  TacheTest:39 - dans init
+2018-10-13 00:40:11 INFO  TacheTest:42 - dans After
+2018-10-13 00:40:11 INFO  TacheTest:39 - dans init
+2018-10-13 00:40:11 INFO  TacheTest:45 - dans test1
+2018-10-13 00:40:11 INFO  TacheTest:42 - dans After
+2018-10-13 00:40:11 INFO  TacheTest:39 - dans init
+2018-10-13 00:40:11 INFO  TacheTest:48 - dans Test2
+2018-10-13 00:40:11 INFO  TacheTest:42 - dans After
+2018-10-13 00:40:11 INFO  TacheTest:39 - dans init
+2018-10-13 00:40:11 INFO  TacheTest:42 - dans After
+2018-10-13 00:41:43 INFO  TacheTest:39 - dans init
+2018-10-13 00:41:43 INFO  TacheTest:42 - dans After
+2018-10-13 00:41:43 INFO  TacheTest:39 - dans init
+2018-10-13 00:41:43 INFO  TacheTest:45 - dans test1
+2018-10-13 00:41:43 INFO  TacheTest:42 - dans After
+2018-10-13 00:41:43 INFO  TacheTest:39 - dans init
+2018-10-13 00:41:43 INFO  TacheTest:48 - dans Test2
+2018-10-13 00:41:43 INFO  TacheTest:42 - dans After
+2018-10-13 00:41:43 INFO  TacheTest:39 - dans init
+2018-10-13 00:41:43 INFO  TacheTest:42 - dans After
+2018-10-13 00:54:27 INFO  PersonneTest:21 - dans init
+2018-10-13 00:59:02 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 00:59:02 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 00:59:02 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 00:59:02 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 00:59:02 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 00:59:02 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 00:59:02 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:05:58 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:05:58 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:05:58 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:05:58 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:05:58 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:05:58 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:05:58 INFO  TacheTest:34 - equalsTache Test bon
+2018-10-13 01:05:58 WARN  TacheTest:23 - creerTache Test echoué
+2018-10-13 01:17:20 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:17:20 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:17:20 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:17:20 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:17:20 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:17:20 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:17:20 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:18:57 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:18:57 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:18:57 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:18:57 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:18:57 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:18:57 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:18:57 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:19:08 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:19:08 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:19:08 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:19:08 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:19:08 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:19:08 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:19:08 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:19:08 WARN  TraitementDonneesTest:30 - creerTache Test echoué
+2018-10-13 01:21:21 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:21:21 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:21:21 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:21:21 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:21:21 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:21:21 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:21:21 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:21:21 WARN  TraitementDonneesTest:30 - creerTache Test echoué
+2018-10-13 01:21:28 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:21:28 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:21:28 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:21:28 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:21:28 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:21:28 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:21:28 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:21:28 WARN  TraitementDonneesTest:30 - creerTache Test echoué
+2018-10-13 01:25:34 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:25:34 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:25:34 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:25:34 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:25:34 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:25:34 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:25:34 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:25:34 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:25:55 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:25:55 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:25:55 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:25:55 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:25:55 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:25:55 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:25:55 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:25:55 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:26:24 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:26:24 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:26:24 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:26:24 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:26:24 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:26:24 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:26:24 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:26:24 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:26:50 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:26:50 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:26:50 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:26:50 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:26:50 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:26:50 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:26:50 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:26:50 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:28:34 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:28:34 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:28:34 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:28:34 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:28:34 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:28:34 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:28:34 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:28:34 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:28:47 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:28:47 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:28:47 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:28:47 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:28:47 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:28:47 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:28:47 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:28:47 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:31:09 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:31:09 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:31:09 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:31:09 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:31:09 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:31:09 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:31:09 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:31:09 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 01:31:54 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:31:54 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:31:54 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:31:54 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:31:54 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:31:54 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:31:54 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:31:54 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 01:31:54 INFO  TraitementDonneesTest:28 - 
+            Tache{  idTache=8, description='description', date='18-09-2100', status=OPEN, resolution=STANDBY, mode=PARTAGE, idCreateur=0}
+2018-10-13 01:32:48 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:32:48 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:32:48 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:32:48 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:32:48 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:32:48 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:32:48 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:32:48 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:33:11 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:33:11 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:33:11 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:33:11 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:33:11 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:33:11 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:33:11 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:33:11 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:33:26 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:33:26 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:33:26 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:33:26 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:33:26 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:33:26 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:33:26 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:33:26 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:33:37 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:33:37 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:33:37 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:33:37 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:33:37 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:33:37 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:33:37 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:33:37 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:33:45 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:33:45 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:33:45 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:33:45 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:33:45 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:33:45 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:33:45 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:33:45 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:35:11 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:35:11 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:35:11 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:35:11 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:35:11 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:35:11 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:35:11 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:35:11 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:35:11 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:36:42 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:36:42 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:36:42 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:36:42 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:36:42 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:36:42 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:36:42 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:36:42 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:36:42 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:40:19 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:40:19 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:40:19 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:40:19 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:40:19 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:40:19 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:40:19 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:40:19 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:40:44 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:40:44 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:40:44 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:40:44 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:40:44 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:40:44 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:40:44 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:40:44 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:42:55 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:42:55 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:42:55 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:42:55 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:42:55 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:42:55 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:42:55 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:42:55 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:43:21 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:43:21 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:43:21 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:43:21 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:43:21 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:43:21 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:43:21 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:43:21 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:43:21 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:43:52 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:43:52 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:43:52 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:43:52 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:43:52 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:43:52 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:43:52 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:43:52 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:43:52 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:44:06 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:44:06 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:44:06 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:44:06 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:44:06 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:44:06 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:44:06 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:44:06 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:44:06 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:44:06 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:47:21 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:47:21 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:47:21 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:47:21 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:47:21 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:47:21 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:47:21 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:47:21 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:48:15 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:48:15 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:48:15 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:48:15 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:48:15 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:48:15 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:48:15 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:48:15 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:48:15 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:49:03 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:49:03 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:49:03 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:49:03 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:49:03 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:49:03 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:49:03 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:49:03 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:49:03 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:49:03 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:49:30 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:49:30 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:49:30 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:49:30 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:49:30 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:49:30 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:49:30 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:49:30 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:49:30 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:49:30 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:51:09 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:51:09 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:51:09 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:51:09 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:51:09 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:51:09 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:51:09 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:51:09 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:51:17 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:51:17 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:51:17 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:51:17 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:51:17 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:51:17 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:51:17 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:51:17 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:52:03 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:52:03 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:52:03 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:52:03 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:52:03 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:52:03 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:52:03 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:52:03 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:52:03 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:52:03 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:52:24 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:52:24 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:52:24 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:52:24 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:52:24 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:52:24 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:52:24 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:52:24 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:52:24 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:52:24 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:52:51 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:52:51 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:52:51 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:52:51 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:52:51 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:52:51 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:52:51 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:52:51 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:52:51 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:52:51 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:53:18 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:53:18 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:53:18 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:53:18 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:53:18 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:53:18 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:53:18 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:53:18 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:53:18 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:53:18 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:53:34 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:53:34 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:53:34 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:53:34 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:53:34 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:53:34 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:53:34 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:53:34 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:53:34 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:53:34 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:54:09 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:54:09 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:54:09 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:54:09 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:54:09 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:54:09 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:54:09 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:54:09 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:54:09 INFO  TraitementDonneesTest:65 - annulerTache Test bon
+2018-10-13 01:54:09 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:54:09 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:55:38 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:55:38 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:55:38 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:55:38 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:55:38 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:55:38 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:55:38 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:55:38 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:55:38 INFO  TraitementDonneesTest:65 - annulerTache Test bon
+2018-10-13 01:55:38 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:55:38 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 01:57:37 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 01:57:37 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 01:57:37 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 01:57:37 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 01:57:37 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 01:57:37 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 01:57:37 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 01:57:37 INFO  TraitementDonneesTest:52 - annulerTache Test bon
+2018-10-13 01:57:37 INFO  TraitementDonneesTest:65 - annulerTache Test bon
+2018-10-13 01:57:37 INFO  TraitementDonneesTest:40 - annulerTache Test bon
+2018-10-13 01:57:37 INFO  TraitementDonneesTest:29 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:11:31 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:11:31 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:11:31 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:11:31 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:11:31 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:11:31 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:11:31 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:11:31 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:11:31 INFO  TraitementDonneesTest:85 - addPersonne Test bon
+2018-10-13 02:11:31 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:12:20 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:12:20 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:12:20 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:12:20 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:12:20 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:12:20 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:12:20 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:12:21 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:12:21 INFO  TraitementDonneesTest:85 - addPersonne Test bon
+2018-10-13 02:12:21 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:12:34 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:12:34 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:12:34 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:12:34 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:12:34 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:12:34 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:12:34 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:12:34 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:12:34 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:12:34 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:12:34 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:13:55 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:13:55 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:13:55 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:13:55 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:13:55 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:13:55 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:13:55 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:13:55 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:13:55 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:13:55 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:13:55 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:14:37 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:14:37 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:14:37 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:14:37 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:14:37 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:14:37 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:14:37 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:14:37 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:14:37 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:14:37 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:14:37 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:14:48 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:14:48 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:14:48 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:14:48 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:14:48 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:14:48 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:14:48 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:14:48 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:14:48 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:14:48 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:14:48 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:14:55 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:14:55 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:15:15 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:15:15 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:15:15 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:15:15 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:15:15 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:15:15 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:15:15 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:15:15 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:15:15 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:15:15 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:15:15 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:15:38 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:15:38 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:15:38 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:15:38 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:15:38 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:15:38 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:15:38 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:15:38 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:15:38 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:15:38 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:15:38 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon
+2018-10-13 02:16:04 INFO  PersonneTest:54 - afficherDateTacheMODE_PRIVE Test bon
+2018-10-13 02:16:04 INFO  PersonneTest:21 - addTache Test bon
+2018-10-13 02:16:04 INFO  PersonneTest:76 - afficherStatusTacheMODE_PRIVE Test bon
+2018-10-13 02:16:04 INFO  PersonneTest:65 - afficherStatusTache Test bon
+2018-10-13 02:16:04 INFO  PersonneTest:32 - afficherTache Test bon
+2018-10-13 02:16:04 INFO  PersonneTest:43 - afficherDateTache Test bon
+2018-10-13 02:16:04 INFO  TacheTest:33 - equalsTache Test bon
+2018-10-13 02:16:04 INFO  TraitementDonneesTest:53 - replanifierTache Test bon
+2018-10-13 02:16:04 INFO  TraitementDonneesTest:84 - addPersonne Test bon
+2018-10-13 02:16:04 INFO  TraitementDonneesTest:66 - attributionTache Test bon
+2018-10-13 02:16:04 INFO  TraitementDonneesTest:41 - annulerTache Test bon
+2018-10-13 02:16:04 INFO  TraitementDonneesTest:30 - AjouterTacheseArrayPersonne Test bon

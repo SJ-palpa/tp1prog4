@@ -1,0 +1,28 @@
+
+ssquid:S3008"URename this field "MODE_PRIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ìÞá8ÑÓ³™æ,
+•"squid:ClassVariableVisibilityCheck"[Make STATUS_CANCELED a static final constant or non-public and provide accessors if needed.(ÿ‡¶Æøÿÿÿÿ8ÑÓ³™æ,
+Tsquid:S1444	"1Make this "public static STATUS_OPEN" field final(ÿÝæ–þÿÿÿÿ8ÑÓ³™æ,
+Xsquid:S1444"5Make this "public static RESOLUTION_DONW" field final(˜ò²Àÿÿÿÿÿ8ÑÓ³™æ,
+Ž"squid:ClassVariableVisibilityCheck
+"YMake STATUS_CLOSED a static final constant or non-public and provide accessors if needed.(í¶¯Ï8ÑÓ³™æ,
+˜"squid:ClassVariableVisibilityCheck"^Make RESOLUTION_IGNORED a static final constant or non-public and provide accessors if needed.(ù”¥Æùÿÿÿÿ8ÑÓ³™æ,
+}squid:S3008"ZRename this field "STATUS_CANCELED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‡¶Æøÿÿÿÿ8ÑÓ³™æ,
+[squid:S1444"8Make this "public static RESOLUTION_IGNORED" field final(ù”¥Æùÿÿÿÿ8ÑÓ³™æ,
+Qsquid:S1444
+"3Make this "public static STATUS_CLOSED" field final(í¶¯Ï8ÑÓ³™æ,
+€squid:S3008"]Rename this field "RESOLUTION_IGNORED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù”¥Æùÿÿÿÿ8ÑÓ³™æ,
+psquid:S3008"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å ¡²þÿÿÿÿ8ÑÓ³™æ,
+’"squid:ClassVariableVisibilityCheck"XMake MODE_PARTAGE a static final constant or non-public and provide accessors if needed.(¡»–»úÿÿÿÿ8ÑÓ³™æ,
+zsquid:S3008"WRename this field "MODE_PARTAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡»–»úÿÿÿÿ8ÑÓ³™æ,
+ysquid:S3008	"VRename this field "STATUS_OPEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÝæ–þÿÿÿÿ8ÑÓ³™æ,
+Nsquid:S1444"0Make this "public static MODE_PRIVE" field final(’ìÞá8ÑÓ³™æ,
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8ÑÓ³™æ,
+}squid:S3008"ZRename this field "RESOLUTION_DONW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ò²Àÿÿÿÿÿ8ÑÓ³™æ,
+‘"squid:ClassVariableVisibilityCheck	"WMake STATUS_OPEN a static final constant or non-public and provide accessors if needed.(ÿÝæ–þÿÿÿÿ8ÑÓ³™æ,
+•"squid:ClassVariableVisibilityCheck"[Make RESOLUTION_DONW a static final constant or non-public and provide accessors if needed.(˜ò²Àÿÿÿÿÿ8ÑÓ³™æ,
+Usquid:S1444"2Make this "public static MODE_PARTAGE" field final(¡»–»úÿÿÿÿ8ÑÓ³™æ,
+‹"squid:ClassVariableVisibilityCheck"VMake MODE_PRIVE a static final constant or non-public and provide accessors if needed.(’ìÞá8ÑÓ³™æ,
+8squid:S1220""Move this file to a named package.8ÑÓ³™æ,
+Xsquid:S1444"5Make this "public static STATUS_CANCELED" field final(ÿ‡¶Æøÿÿÿÿ8ÑÓ³™æ,
+vsquid:S3008
+"XRename this field "STATUS_CLOSED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¶¯Ï8ÑÓ³™æ,

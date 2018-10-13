@@ -1,0 +1,12 @@
+
+?squid:S1643S"Use a StringBuilder instead.(Ö¢ûúÿÿÿÿ8«Ù–šæ,
+esquid:UselessImportCheck":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§8ÒÓ³™æ,
+:squid:S1643b"Use a StringBuilder instead.(æ¿Êò8®ªÃšæ,
+psquid:S3008"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å ¡²şÿÿÿÿ8ÒÓ³™æ,
+U
+squid:S106I"9Replace this use of System.out or System.err by a logger.(óÕ‡8ÒÓ³™æ,
+U
+squid:S106>"9Replace this use of System.out or System.err by a logger.(óÕ‡8ÒÓ³™æ,
+squid:S1319"pThe type of the "tache" object should be an interface such as "List" rather than the implementation "ArrayList".(ôÇ‰â8ÒÓ³™æ,
+:squid:S1643n"Use a StringBuilder instead.(æ¿Êò8»óÄšæ,
+8squid:S1220""Move this file to a named package.8ÒÓ³™æ,
